@@ -1,37 +1,38 @@
-# 📋 Task List - Meu primeiro CRUD com React
+# 🚀 Projetos React
 
-Este é o meu primeiro projeto prático utilizando **React**, criado com o objetivo de fixar conceitos como `useState`, eventos e desestruturação.  
-É uma aplicação simples de lista de tarefas (CRUD) onde é possível adicionar, marcar como concluída, remover e limpar todas as tarefas da lista.
+Bem-vindo ao meu repositório de **projetos React**! 🎉
 
----
-
-## 🚀 Funcionalidades
-
-- ✅ Adicionar uma nova tarefa
-- 🗑 Remover tarefa individual
-- 📦 Marcar tarefas como concluídas
-- 🔄 Exibir número de tarefas totais e concluídas
-- ❌ Limpar todas as tarefas com confirmação
+Aqui estão todos os projetos que desenvolvo durante meus estudos e cursos. Cada um é uma etapa importante na minha jornada para dominar React e me tornar um desenvolvedor fullstack de respeito. 👨‍💻🔥
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 📚 O que você vai encontrar aqui?
 
-- [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/) (para estilização)
-- `useState`, `useRef`, eventos de formulário e teclado
+- Projetos práticos, feitos do zero com foco em aprender na marra 💪
+- Exercícios, desafios e apps que testam minhas habilidades e raciocínio lógico 🧠⚙️
+- Código organizado e comentado, porque programação é arte e disciplina 🎨📏
 
 ---
 
-## 💡 O que eu aprendi
+## 🎯 Meu objetivo
 
-Durante o desenvolvimento deste projeto, aprendi e pratiquei:
+- Aprender React de verdade, sem pular etapas  
+- Construir um portfólio sólido para entrar no mercado  
+- Compartilhar conhecimento e evoluir sempre  
 
-- Como utilizar o **hook `useState`** para controlar o estado da aplicação
-- Como trabalhar com **eventos** em inputs (`onChange`, `onKeyUp`)
-- Como usar **referências com `useRef`** para focar automaticamente no campo de input
-- Como aplicar **desestruturação** para deixar o código mais limpo
-- Como usar **condicionais** para renderizar partes da interface dinamicamente
-- Como estruturar um CRUD completo em React com lógica e boas práticas
+---
 
+## 🚧 Ainda estou em construção!
+
+Se algo não estiver perfeito, é porque estou na labuta, testando, errando e aprendendo — tudo faz parte do processo! 🛠️🔥
+
+---
+
+## ⚡ Vamos codar!
+
+Siga os READMEs internos de cada projeto para rodar e testar o que criei. E bora pra próxima linha de código! 👊
+
+---
+
+Leandro Cardoso  
+Desenvolvedor em evolução constante 💼✨
